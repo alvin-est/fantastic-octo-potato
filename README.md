@@ -26,7 +26,6 @@ Fill in notes in relevant sections.
 ## Credits
 
 The Coding Boot Camp at the University of Sydney.  
-A partnership and in collaboration with edX / 2U Inc.
 
 ## License
 
